@@ -29,7 +29,7 @@ export export AWS_SECRET_ACCESS_KEY=#Replace_yours
 
 
 ## Quick Strat
-* In `process_text_detection` you have to pass `bucket`, `imagename` and `region`
+* In `start.py` you have to pass `bucket`, `imagename` and `region`
 * Run `python start.py`
 
 
